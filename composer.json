@@ -1,0 +1,14 @@
+{
+	"name": "codeq/guidedtour",
+	"type": "neos-package",
+	"description": "A guided introduction tour for the Neos CMS",
+	"require": {
+		"neos/neos": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"CodeQ\\GuidedTour\\": "Classes"
+		}
+	}
+}
+
