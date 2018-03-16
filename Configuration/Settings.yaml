@@ -7,8 +7,8 @@ Neos:
             resource: resource://CodeQ.GuidedTour/Public/jquery.min.js
           'CodeQ.GuidedTour:EnjoyHint':
             resource: resource://CodeQ.GuidedTour/Public/enjoyhint.min.js
-          'CodeQ.GuidedTour:Main':
-            resource: resource://CodeQ.GuidedTour/Public/main.js
+          'CodeQ.GuidedTour:Plugin':
+            resource: resource://CodeQ.GuidedTour/Public/Plugin.js
         stylesheets:
           'CodeQ.GuidedTour:EnjoyHint':
             resource: resource://CodeQ.GuidedTour/Public/enjoyhint.css
